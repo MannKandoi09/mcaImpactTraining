@@ -3,14 +3,14 @@ package Day8;
 import java.util.Scanner;
 import java.util.*;
 
-public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine();
-        StringListOperations.processCommands(input);
-        sc.close();
-    }
-}
+//public class Main {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        String input = sc.nextLine();
+//        StringListOperations.processCommands(input);
+//        sc.close();
+//    }
+//}
 
 // You are using Java
 class ClassExercise_3{
