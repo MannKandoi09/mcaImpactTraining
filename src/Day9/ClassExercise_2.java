@@ -31,5 +31,6 @@ public class ClassExercise_2{
         System.out.println("The kth smallest price is: " + arr[k-1]);
 
 
+        
     }
 }
