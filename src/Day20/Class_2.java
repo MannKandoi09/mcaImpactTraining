@@ -2,10 +2,10 @@ package Day20;
 
 // You are using Java
 import java.util.*;
-class Node{
+class Node1{
     int data;
     Node next;
-    Node(int data){
+    Node1(int data){
         this.data = data;
     }
 }
