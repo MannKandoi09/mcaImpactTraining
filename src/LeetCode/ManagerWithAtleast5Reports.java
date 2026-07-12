@@ -1,0 +1,15 @@
+package LeetCode;
+/*
+public class ManagerWithAtleast5Reports {
+    # Write your MySQL query statement below
+    select e1.name
+    from Employee e1
+    Join Employee e2
+    on e1.id = e2.managerId
+    group by e1.id, e1.name
+    having count(e2.id) >= 5;
+
+}
+
+
+ */
